@@ -97,8 +97,10 @@ rules:
 - DOMAIN-SUFFIX,*.hdhome.org,DIRECT
 - DOMAIN-SUFFIX,t.hdhome.org,DIRECT
 
+##NTP Services
+- DOMAIN-SUFFIX,pool.ntp.org,DIRECT
+
 ##Self Domain
 - DOMAIN-SUFFIX,noaccess.link,DIRECT
-- DOMAIN-SUFFIX,*.noaccess.link,DIRECT
 
 ##在线IP段转CIDR地址：http://ip2cidr.com
