@@ -66,4 +66,30 @@ rules:
 ##- DOMAIN-SUFFIX,ip6.seeip.org,DIRECT
 ##- DOMAIN-SUFFIX,members.3322.org,DIRECT
 
+##Synology Services
+- DOMAIN-SUFFIX,synology.com,DIRECT
+- DOMAIN-SUFFIX,global.download.synology.com,DIRECT
+- DOMAIN-SUFFIX,global.synologydownload.com,DIRECT
+- DOMAIN-SUFFIX,update7.synology.com,DIRECT
+- DOMAIN-SUFFIX,autoupdate7.synology.com,DIRECT
+- DOMAIN-SUFFIX,autoupdate7.synology.cn,DIRECT
+- DOMAIN-SUFFIX,payment.synology.com,DIRECT
+- DOMAIN-SUFFIX,account.synology.com,DIRECT
+- DOMAIN-SUFFIX,download.synology.com,DIRECT
+- DOMAIN-SUFFIX,pkgautoupdate7.synology.com,DIRECT
+- DOMAIN-SUFFIX,pkgautoupdate7.synology.cn,DIRECT
+- DOMAIN-SUFFIX,pkgupdate7.synology.com,DIRECT
+- DOMAIN-SUFFIX,pkgautoupdate.synologyupdate.com,DIRECT
+- DOMAIN-SUFFIX,global.synologydownload.com,DIRECT
+- DOMAIN-SUFFIX,api.insight.synology.com,DIRECT
+- DOMAIN-SUFFIX,pkgautoupdate.synologyupdate.com,DIRECT
+- DOMAIN-SUFFIX,api.insight.synology.com,DIRECT
+- DOMAIN-SUFFIX,help.synology.com,DIRECT
+- DOMAIN-SUFFIX,global.quickconnect.to,DIRECT
+- DOMAIN-SUFFIX,global.quickconnect.cn,DIRECT
+- DOMAIN-SUFFIX,*.quickconnect.to,DIRECT
+- DOMAIN-SUFFIX,*.quickconnect.cn,DIRECT
+- DOMAIN-SUFFIX,*.synology.com,DIRECT
+- DOMAIN-SUFFIX,*.synology.cn,DIRECT
+
 ##在线IP段转CIDR地址：http://ip2cidr.com
