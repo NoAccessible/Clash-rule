@@ -95,6 +95,7 @@ rules:
 ##Other Services
 - DOMAIN-SUFFIX,*.tailscale.com,DIRECT
 - DOMAIN-SUFFIX,*.hdhome.org,DIRECT
+- DOMAIN-SUFFIX,t.hdhome.org,DIRECT
 
 ##Self Domain
 - DOMAIN-SUFFIX,noaccess.link,DIRECT
