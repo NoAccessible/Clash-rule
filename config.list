@@ -92,4 +92,12 @@ rules:
 - DOMAIN-SUFFIX,*.synology.com,DIRECT
 - DOMAIN-SUFFIX,*.synology.cn,DIRECT
 
+##Other Services
+- DOMAIN-SUFFIX,*.tailscale.com,DIRECT
+- DOMAIN-SUFFIX,*.hdhome.org,DIRECT
+
+##Self Domain
+- DOMAIN-SUFFIX,noaccess.link,DIRECT
+- DOMAIN-SUFFIX,*.noaccess.link,DIRECT
+
 ##在线IP段转CIDR地址：http://ip2cidr.com
